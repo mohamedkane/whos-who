@@ -1,0 +1,29 @@
+body{
+    background-image:url("https://image.spreadshirtmedia.com/image-server/v1/compositions/20156960/views/1,width=650,height=650,appearanceId=2,version=1541753470/for-all-full-metal-alchemist-fans-out-there-here-is-the-human-transmutation-circle-and-formula.jpg");
+     background-repeat: no-repeat;
+     background-size: cover;
+
+    }
+    
+    center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    color:green;
+}
+
+           
+ h1 {
+    color: red;
+    text-align: center;
+    font-family: 'Limelight', cursive;
+  }
+  
+  #pics , #p2 ,p3 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 40px 0;
+
+}
